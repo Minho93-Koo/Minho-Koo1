@@ -1,7 +1,7 @@
 package com.javalec.ex;
 
 public class Cal {
-
+	int i =1;
 	public void add(int f,int s) {
 		System.out.println("add");
 		int result=f+s;
